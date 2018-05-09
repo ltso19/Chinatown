@@ -1,0 +1,37 @@
+Name: Chinatown
+
+  Zip Code: 10013
+  Census Tract: 29
+  Tract Income Level Low
+  Underserved or Distressed Tract	No
+  2017 FFIEC Estimated MSA/MD/non-MSA/MD Median Family Income $73,700
+  2017 Estimated Tract Median Family Income $33,113
+  2010 Tract Median Family Income	$32,376
+  Tract Median Family Income % 44.93
+  Tract Population 6050
+  Tract Minority % 92.51
+  Tract Minority Population 5597
+  Owner-Occupied Units 186
+  1- to 4- Family Units 209
+
+Population Demographics:
+
+  Total Population 108,408
+  Male Population	52,177
+  Female Population 56,232
+  Percent Change Since 2000 5.6%
+  Percent Change Since 2010 -0.8%
+  Median Age 38.21
+
+The 10 worst complaints are:
+
+  Noise- Vehicle 1454
+  Noise 891
+  Illegal Parking 548
+  Street Condition 524
+  Noise- Commercial 478
+  Noise- Residential 420
+  Traffic 397
+  Homeless Person Assistance 369
+  Water System 328
+  Noise - Street/Sidewalk 310
