@@ -1,3 +1,5 @@
+https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/pdf_attachment/file/5365467/Lynlia_Tso_HC6.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIGIENPBVZV37ZJPA%2F20180509%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20180509T174158Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=07c76c710122b25133a24f3f29b192f4feae3702559fbf93d4d05f41d9d603a2
+
 Name: Chinatown
 
   Zip Code: 10013
